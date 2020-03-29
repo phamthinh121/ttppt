@@ -1,0 +1,24 @@
+{
+  "name": "ppthinh",
+  "version": "1.0.0",
+  "description": "first demo for api",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "debug": "nodemon app.js",
+    "start": "node app.js"
+  },
+  "keywords": [
+    "hello",
+    "world"
+  ],
+  "author": "th",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "hbs": "^4.1.0",
+    "nodemon": "^2.0.2",
+    "swagger-jsdoc": "^4.0.0",
+    "swagger-ui-express": "^4.1.4"
+  }
+}
