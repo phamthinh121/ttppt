@@ -15,7 +15,7 @@
   "author": "th",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "hbs": "^4.1.0",
     "nodemon": "^2.0.2",
     "swagger-jsdoc": "^4.0.0",
